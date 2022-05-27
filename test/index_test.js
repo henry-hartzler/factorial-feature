@@ -31,5 +31,5 @@ describe('Calculate', () => {
       //verify
       assert.equal(result, expectedResult);
     });
-  });
+  })
 });
