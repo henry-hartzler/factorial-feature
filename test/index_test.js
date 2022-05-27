@@ -1,5 +1,5 @@
 var assert = require("assert");
-var Calculate =  require('.index')
+var Calculate =  require('../index')
 
 describe('Calculate', () => {
   describe('.factorial', () => {
